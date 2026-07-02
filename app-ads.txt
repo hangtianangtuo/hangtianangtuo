@@ -1,0 +1,62 @@
+# app-ads.txt for Beijing Hangtian Angtuo Technology Co., Ltd.
+# This file is used for advertising and monetization verification
+# Last Updated: December 2024
+
+# Google AdMob
+google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
+
+# Facebook Audience Network
+facebook.com, XXXXXXXXXXXX, DIRECT, XXXXXXXXXXXXXXXXXXXXXXXX
+
+# Unity Ads
+unity3d.com, XXXXXXXXXXXX, DIRECT, XXXXXXXXXXXXXXXXXXXXXXXX
+
+# AppLovin
+applovin.com, XXXXXXXXXXXX, DIRECT, XXXXXXXXXXXXXXXXXXXXXXXX
+
+# ironSource
+ironsrc.com, XXXXXXXXXXXX, DIRECT, XXXXXXXXXXXXXXXXXXXXXXXX
+
+# Vungle
+vungle.com, XXXXXXXXXXXX, DIRECT, XXXXXXXXXXXXXXXXXXXXXXXX
+
+# Chartboost
+chartboost.com, XXXXXXXXXXXX, DIRECT, XXXXXXXXXXXXXXXXXXXXXXXX
+
+# AdColony
+adcolony.com, XXXXXXXXXXXX, DIRECT, XXXXXXXXXXXXXXXXXXXXXXXX
+
+# InMobi
+inmobi.com, XXXXXXXXXXXX, DIRECT, XXXXXXXXXXXXXXXXXXXXXXXX
+
+# Pangle (ByteDance)
+pangle.com, XXXXXXXXXXXX, DIRECT, XXXXXXXXXXXXXXXXXXXXXXXX
+
+# Mintegral
+mintegral.com, XXXXXXXXXXXX, DIRECT, XXXXXXXXXXXXXXXXXXXXXXXX
+
+# Fyber
+fyber.com, XXXXXXXXXXXX, DIRECT, XXXXXXXXXXXXXXXXXXXXXXXX
+
+# Tapjoy
+tapjoy.com, XXXXXXXXXXXX, DIRECT, XXXXXXXXXXXXXXXXXXXXXXXX
+
+# Liftoff
+liftoff.io, XXXXXXXXXXXX, DIRECT, XXXXXXXXXXXXXXXXXXXXXXXX
+
+# Moloco
+moloco.com, XXXXXXXXXXXX, DIRECT, XXXXXXXXXXXXXXXXXXXXXXXX
+
+# Digital Turbine
+digitalturbine.com, XXXXXXXXXXXX, DIRECT, XXXXXXXXXXXXXXXXXXXXXXXX
+
+# Amazon Ads
+amazon-adsystem.com, XXXXXXXXXXXX, DIRECT, XXXXXXXXXXXXXXXXXXXXXXXX
+
+# Appodeal
+appodeal.com, XXXXXXXXXXXX, DIRECT, XXXXXXXXXXXXXXXXXXXXXXXX
+
+# Notes:
+# - Replace 'XXXXXXXXXXXX' with your actual publisher IDs
+# - Update this file when adding or removing ad networks
+# - Ensure your app IDs are correctly configured in each ad network dashboard
